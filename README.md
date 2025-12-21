@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello! I'm Sulaf!✨
+
+:computer: A very motivated computer science student with a curious mind <br/>
+
+:bar_chart: Currently learning Data Analytics through [DEPI (Round 4)] (https://mcit.gov.eg/en/Human_Capacity/MCIT/Digital_Egypt_Pioneers_Initiative) <br/>
+
+:octocat: Actively building my Python skills! <br/>
 
 <!--
 **sulafjudah/sulafjudah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
