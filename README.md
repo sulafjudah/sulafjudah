@@ -1,4 +1,4 @@
-## Hello! I'm Sulaf!✨
+## Hello, I'm Sulaf!✨
 
 :computer: A very motivated computer science student with a curious mind <br/>
 
