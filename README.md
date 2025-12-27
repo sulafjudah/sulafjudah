@@ -17,5 +17,3 @@ Hello, I'm Sulaf!✨<br><br>:computer: A very motivated computer science student
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sulafjudah&icon=3&color=2)](https://visitcount.itsvg.in)
-- ⚡ Fun fact: ...
--->
