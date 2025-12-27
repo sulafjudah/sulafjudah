@@ -12,8 +12,6 @@ Hello, I'm Sulaf!✨<br><br>:computer: A very motivated computer science student
 ![](https://nirzak-streak-stats.vercel.app/?user=sulafjudah&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sulafjudah&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
