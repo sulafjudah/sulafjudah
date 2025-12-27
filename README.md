@@ -1,12 +1,5 @@
-## Hello, I'm Sulaf!✨
-
-:computer: A very motivated computer science student with a curious mind <br/>
-
-:bar_chart: Currently learning Data Analytics through [DEPI (Round 4)](https://mcit.gov.eg/en/Human_Capacity/MCIT/Digital_Egypt_Pioneers_Initiative) <br/>
-
-:octocat: Actively building my Python skills! <br/>
 # 💫 About Me:
-##Hello, I'm Sulaf!✨<br><br>:computer: A very motivated computer science student with a curious mind<br><br>:bar_chart: Currently learning Data Analytics through [DEPI (Round 4)](https://mcit.gov.eg/en/Human_Capacity/MCIT/Digital_Egypt_Pioneers_Initiative)<br><br>:octocat: Actively building my Python skills!
+Hello, I'm Sulaf!✨<br><br>:computer: A very motivated computer science student with a curious mind<br><br>:bar_chart: Currently learning Data Analytics through [DEPI (Round 4)](https://mcit.gov.eg/en/Human_Capacity/MCIT/Digital_Egypt_Pioneers_Initiative)<br><br>:octocat: Actively building my Python skills!
 
 
 ## 🌐 Socials:
