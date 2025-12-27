@@ -30,9 +30,9 @@ Hello, I'm Sulaf!✨<br><br>:computer: A very motivated computer science student
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="java logo"  />
+  <img src="https://www.citypng.com/photo/26142/hd-java-logo-transparent-background" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="C logo"  />
+  <img src="https://www.vhv.rs/viewpic/bRwxom_c-programming-language-logo-hd-png-download/" height="30" alt="C logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -47,6 +47,9 @@ Hello, I'm Sulaf!✨<br><br>:computer: A very motivated computer science student
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href ="mailto:sulafjudah@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
   <a href ="www.linkedin.com/in/sulaf-judah-308797351"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+
+[![LinkedIn](<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />)](https://linkedin.com/in/www.linkedin.com/in/sulaf-judah-308797351) [![email](<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />)](mailto:sulafjudah@gmail.com)
+  
 </div>
 
 ###
