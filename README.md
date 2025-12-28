@@ -1,8 +1,18 @@
 # 💫 About Me:
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
+<img align="right" height="210" src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif"  />
 
-Hello, I'm Sulaf!✨<br><br>:computer: A very motivated computer science student with a curious mind<br><br>:bar_chart: Currently learning Data Analytics through [DEPI (Round 4)](https://mcit.gov.eg/en/Human_Capacity/MCIT/Digital_Egypt_Pioneers_Initiative)<br><br>:octocat: Actively building my Python skills!
+
+<div style="font-family: cursive;">
+Hello, I'm Sulaf!✨<br><br>
+:computer: A very motivated computer science student with a curious mind<br><br>
+:bar_chart: Currently diving into Data Analytics through 
+<a href="https://mcit.gov.eg/en/Human_Capacity/MCIT/Digital_Egypt_Pioneers_Initiative">
+DEPI (Round 4)
+</a>!<br><br>
+:octocat: Actively building my Python skills!
+</div>
 
 
 
