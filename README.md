@@ -4,8 +4,8 @@
 <img align="right" height="200" src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif"  />
 
 
-<div style="font-family: cursive;">
-Hello, I'm Sulaf!✨<br><br>
+<div>
+𝑯𝒆𝒍𝒍𝒐, 𝑰'𝒎 𝑺𝒖𝒍𝒂𝒇!✨<br><br>
 :computer: A very motivated computer science student with a curious mind<br><br>
 :bar_chart: Currently diving into Data Analytics through 
 <a href="https://mcit.gov.eg/en/Human_Capacity/MCIT/Digital_Egypt_Pioneers_Initiative">
@@ -19,22 +19,23 @@ DEPI (Round 4)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaf-judah-308797351) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mailto:sulafjudah@gmail.com)
 
+## 💻 Tech Stack:
+
 <div align="center">
 
-# 💻 Tech Stack:
-
-<img height="50" src="python_logo.png" alt="python logo">
-<img height="50" src="C_logo.png" alt="C logo">
-<img height="50" src="Csharp_logo.png" alt="C# logo">
-<img height="50" src="HTML5_logo.png" alt="HTML logo">
-<img height="50" src="java_logo.png" alt="java logo">
-<img height="50" src="javascript_logo.png" alt="javascript logo">
+<img height="60" src="python_logo.png" alt="python logo">
+<img height="60" src="C_logo.png" alt="C logo">
+<img height="60" src="Csharp_logo.png" alt="C# logo">
+<img height="60" src="HTML5_logo.png" alt="HTML logo">
+<img height="60" src="java_logo.png" alt="java logo">
+<img height="60" src="javascript_logo.png" alt="javascript logo">
 
 </div>
 
+## 📊 GitHub Stats:
+
 <div align="center">
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sulafjudah&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sulafjudah&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sulafjudah&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
