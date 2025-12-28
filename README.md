@@ -17,7 +17,7 @@ DEPI (Round 4)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaf-judah-308797351) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sulafjudah@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaf-judah-308797351) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mailto:sulafjudah@gmail.com)
 
 <div align="center">
 
