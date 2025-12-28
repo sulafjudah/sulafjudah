@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
-<img align="right" height="210" src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif"  />
 
 
 <div style="font-family: cursive;">
@@ -22,7 +22,13 @@ DEPI (Round 4)
 <div align="center">
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<img height="50" src="python_logo.png" alt="python logo">
+<img height="50" src="C_logo.png" alt="C logo">
+<img height="50" src="Csharp_logo.png" alt="C# logo">
+<img height="50" src="HTML5_logo.png" alt="HTML logo">
+<img height="50" src="java_logo.png" alt="java logo">
+<img height="50" src="javascript_logo.png" alt="javascript logo">
 
 </div>
 
@@ -35,7 +41,9 @@ DEPI (Round 4)
 
 </div>
 
-###
+<!--
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+-->
 
 <!--
 <div align="center">
