@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-<!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
 <img align="right" height="200" src="https://i.pinimg.com/originals/65/78/d0/6578d09eeb6c8663a05d4f9114afb10d.gif"  />
 
 
@@ -32,6 +31,15 @@ DEPI (Round 4)
 
 </div>
 
+<!-- GIFS:
+<div><br></div>
+
+<div align="center">
+
+  <img src="https://miro.medium.com/v2/1*PlyeRxCFLCbP8cL7uuVt5g.gif">
+  <img src="https://repository-images.githubusercontent.com/601737892/fd6544e4-8819-4ba1-a55e-d4785340a2b9">
+</div> -->
+
 ## 📊 GitHub Stats:
 
 <div align="center">
@@ -42,26 +50,11 @@ DEPI (Round 4)
 
 </div>
 
-<!--
+
+<!-- LOGOS:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 -->
 
-<!--
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://www.vhv.rs/dpng/d/53-533220_c-programming-language-logo-hd-png-download.png" height="30" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
--->
-  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sulafjudah&icon=3&color=2)](https://visitcount.itsvg.in)
